@@ -1,0 +1,3 @@
+-e git+https://github.com/Vnet-as/myr-base.git#egg=myr.base
+-e git+https://github.com/Vnet-as/myr-client.git#egg=myr.client
+-e git+https://github.com/Vnet-as/myr-discovery.git#egg=myr.discovery
